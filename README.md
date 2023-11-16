@@ -1,6 +1,6 @@
 # Multimedia-Converter
 Multimedia Converter is an application that lets you convert the media between particular formats, including GIF, Video, and IMG. 
-- The video formats including, 'mp4', 'avi', 'mov', 'flv', 'webm', 'mkv', 'wmv'.
+- The video formats including, 'mp4', 'avi', 'mov', 'flv', 'webm', 'mkv'.
 - The Img formats including, 'png','jpg'.
 - The Gif format including, 'gif'.
 
